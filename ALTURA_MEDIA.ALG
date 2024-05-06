@@ -28,7 +28,7 @@ Inicio
    Fimpara
    media <- alturaSoma / jogadores
    Escreval("A média dos jogadores é de: ",media)
-   Escreval("A maior altura é de: ",alto)
+   Escreval("A maior altura é de: ",jogadorAlto)
    Escreval("A menor altura é de: ",jogadorBaixo)
 
 
