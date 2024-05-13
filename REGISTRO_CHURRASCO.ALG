@@ -27,15 +27,6 @@ Inicio
       Escreval("")
       custoTotal <- custoTotal + (itens[i].valorUnit * itens[i].qnt)
       totalUnitario <- custoTotal / qntPessoa
-
-
-      Escreval("Quer add mais?")
-      Escreval("1 - Sim")
-      Escreval("2 - Não")
-      Leia(addMais)
-      Se(addMais = "2") Então
-         interrompa
-      Fimse
    Fimpara
 
    Escreval("----------Extrato----------")
